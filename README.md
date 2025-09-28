@@ -1,5 +1,5 @@
 # Movie Ticketing System (Java)
-
+``java netbeans``
 A simple movie ticket booking system implemented in Java. This project allows users to browse movies, select shows, book tickets (Regular or VIP), and manage bookings.
 
 ## Features
